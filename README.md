@@ -1,0 +1,2 @@
+Mongoose provides a straight-forward, schema-based solution to model your application data. It includes built-in type casting, validation, query building, business logic hooks and more, out of the box.
+in this chapter we started using mongoose from scratch and we performed some lines of code which helps you to get started from zero with mongoose.
